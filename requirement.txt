@@ -1,0 +1,2 @@
+pip install langchain langchain-community sentence-transformers faiss-cpu youtube-transcript-api4
+pip install streamlit
